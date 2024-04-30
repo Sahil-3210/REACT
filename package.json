@@ -1,0 +1,18 @@
+{
+  "name": "nodebacked",
+  "version": "1.0.0",
+  "description": "basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "sahil"
+  ],
+  "author": "sahil randive",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
